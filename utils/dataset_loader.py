@@ -223,4 +223,4 @@ def _generate_heatmap(img, kpt, stride, sigma):
 21 'bottom_left_out',
 22 'bottom_right_in',
 23 'bottom_right_out
-'''
+'''
